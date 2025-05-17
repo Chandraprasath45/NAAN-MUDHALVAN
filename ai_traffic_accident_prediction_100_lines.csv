@@ -1,0 +1,101 @@
+Timestamp,Latitude,Longitude,City,State,Weather,Road_Surface,Light,Severity,Vehicle_Count,Vehicle_Types,Collision_Type,Speed_Limit,Traffic_Density,Driver_Age,Driver_Gender,Violation,Response_Time,Cause
+2025-01-15 04:57,36.716298,-97.97641,City_37,State_17,Clear,Icy,Night (No Light),Minor,4,Car-Bus,Head-on,60,Low,56,M,Speeding,11,Mechanical Failure
+2025-01-14 21:06,27.546486,-73.515241,City_39,State_12,Fog,Wet,Daylight,Serious,3,Car,Side-impact,40,High,47,F,None,7,Road Defect
+2025-02-19 18:58,41.187505,-106.105996,City_6,State_10,Snow,Wet,Daylight,Serious,2,Car,Other,70,High,61,F,Speeding,5,Weather
+2025-01-12 17:43,26.850981,-103.216079,City_4,State_12,Clear,Dry,Night (Lit),Minor,1,Pedestrian,Other,60,Moderate,70,M,Signal Jump,12,Weather
+2025-02-04 14:54,30.717557,-72.417196,City_29,State_20,Cloudy,Wet,Dusk,Minor,4,Truck,Off-road,30,Low,33,F,Distracted Driving,10,Mechanical Failure
+2025-01-29 06:31,32.244301,-101.344843,City_7,State_7,Clear,Icy,Dawn,Serious,3,Car-Bike,Off-road,30,High,25,M,Drunk Driving,18,Human Error
+2025-02-13 11:44,36.724647,-103.113844,City_46,State_7,Cloudy,Icy,Night (Lit),Fatal,1,Car,Head-on,70,High,73,M,Distracted Driving,7,Mechanical Failure
+2025-02-15 12:28,37.410058,-69.852997,City_8,State_13,Fog,Dry,Daylight,Minor,2,Pedestrian-Car,Head-on,50,High,70,F,Speeding,12,Weather
+2025-02-17 17:10,40.49104,-108.520255,City_28,State_10,Cloudy,Dry,Daylight,Fatal,4,Truck-Pedestrian,Head-on,60,High,24,F,Distracted Driving,18,Human Error
+2025-01-29 19:35,39.370779,-98.996731,City_14,State_15,Snow,Wet,Dawn,Serious,2,Pedestrian-Bike,Side-impact,60,Low,23,F,Distracted Driving,7,Weather
+2025-01-16 14:57,26.403535,-113.154641,City_4,State_5,Clear,Dry,Daylight,Serious,1,Car,Rear-end,70,Low,22,F,Distracted Driving,4,Mechanical Failure
+2025-03-09 16:53,39.983343,-90.921822,City_43,State_4,Snow,Dry,Daylight,Serious,3,Car,Other,30,Low,49,M,Drunk Driving,14,Human Error
+2025-03-09 00:39,41.432542,-78.758587,City_8,State_19,Cloudy,Wet,Dawn,Minor,4,Bus-Car,Head-on,30,Moderate,38,M,None,13,Road Defect
+2025-01-18 09:07,45.286964,-108.71597,City_18,State_16,Fog,Dry,Dusk,Fatal,3,Bike,Off-road,30,Low,50,M,Speeding,19,Road Defect
+2025-03-04 07:13,36.674846,-120.8717,City_8,State_7,Rain,Dry,Night (No Light),Fatal,3,Car,Rear-end,70,Low,49,F,Speeding,14,Weather
+2025-01-20 22:27,40.437208,-94.537294,City_13,State_6,Clear,Icy,Dawn,Minor,4,Bike-Pedestrian,Other,50,Low,60,F,Distracted Driving,15,Human Error
+2025-03-01 13:52,34.452817,-95.048544,City_30,State_16,Clear,Icy,Dusk,Fatal,1,Truck-Bus,Other,50,Low,37,M,Drunk Driving,17,Weather
+2025-02-12 02:25,34.314224,-73.926243,City_36,State_14,Snow,Dry,Dusk,Minor,4,Truck-Bike,Off-road,40,Low,39,M,Drunk Driving,2,Mechanical Failure
+2025-01-24 20:47,47.120024,-90.024257,City_4,State_7,Cloudy,Wet,Dawn,Minor,1,Car,Head-on,60,Moderate,70,F,Drunk Driving,19,Mechanical Failure
+2025-01-03 15:05,44.615035,-69.032466,City_36,State_20,Cloudy,Wet,Night (No Light),Fatal,1,Bike-Pedestrian,Off-road,60,Low,64,F,None,6,Human Error
+2025-03-07 20:46,45.044032,-90.313326,City_1,State_16,Cloudy,Icy,Night (Lit),Serious,3,Pedestrian,Side-impact,60,High,49,M,Drunk Driving,8,Human Error
+2025-02-16 02:46,32.089952,-115.634626,City_14,State_11,Snow,Dry,Night (No Light),Fatal,4,Car,Other,40,Moderate,47,F,Distracted Driving,16,Road Defect
+2025-02-23 12:22,40.297171,-70.242423,City_19,State_9,Rain,Icy,Dusk,Minor,4,Bike-Truck,Head-on,60,Moderate,18,F,Signal Jump,10,Human Error
+2025-01-06 04:28,27.40288,-113.766701,City_29,State_8,Rain,Wet,Dawn,Minor,1,Car-Pedestrian,Side-impact,30,Moderate,58,M,Speeding,4,Weather
+2025-03-10 12:00,36.981542,-120.78281,City_27,State_5,Fog,Dry,Night (Lit),Minor,2,Bike,Head-on,40,Low,25,M,Drunk Driving,19,Mechanical Failure
+2025-01-03 08:11,32.094585,-115.932092,City_31,State_6,Clear,Wet,Night (No Light),Fatal,2,Car-Bike,Other,50,High,74,M,Drunk Driving,19,Mechanical Failure
+2025-02-27 02:51,46.113432,-74.804262,City_11,State_4,Rain,Icy,Dawn,Serious,4,Bike-Bus,Side-impact,50,Low,27,F,Signal Jump,2,Road Defect
+2025-01-06 15:21,44.94543,-78.023751,City_47,State_8,Snow,Wet,Dusk,Serious,1,Car,Rear-end,50,Moderate,35,M,Drunk Driving,5,Road Defect
+2025-01-13 13:18,37.313238,-121.995649,City_35,State_7,Fog,Wet,Dusk,Fatal,3,Pedestrian,Head-on,40,High,73,M,Drunk Driving,12,Road Defect
+2025-01-15 10:14,29.435018,-108.580979,City_16,State_19,Fog,Dry,Dawn,Fatal,3,Pedestrian-Truck,Off-road,60,Low,34,M,None,16,Human Error
+2025-03-10 12:32,33.141606,-66.426153,City_12,State_10,Snow,Dry,Night (No Light),Minor,4,Car-Bike,Side-impact,60,High,59,M,None,2,Road Defect
+2025-02-06 22:02,37.928557,-82.800002,City_42,State_11,Fog,Dry,Dusk,Fatal,1,Pedestrian,Rear-end,40,Low,18,F,Distracted Driving,16,Road Defect
+2025-01-14 02:39,33.808592,-98.881098,City_6,State_2,Clear,Dry,Night (No Light),Serious,3,Bike,Other,60,Moderate,43,M,Drunk Driving,9,Weather
+2025-02-18 05:36,33.232111,-113.663528,City_5,State_1,Fog,Icy,Night (Lit),Minor,2,Pedestrian,Side-impact,30,High,25,M,Drunk Driving,4,Mechanical Failure
+2025-01-01 19:22,41.626708,-79.27806,City_38,State_3,Snow,Dry,Dusk,Minor,3,Truck,Other,60,Low,71,M,Signal Jump,3,Mechanical Failure
+2025-02-12 11:30,35.112338,-103.033974,City_2,State_13,Fog,Icy,Dawn,Fatal,1,Truck-Bus,Head-on,50,Low,61,F,None,17,Road Defect
+2025-02-24 19:32,28.168474,-75.188112,City_5,State_7,Fog,Wet,Night (Lit),Serious,4,Bus-Car,Other,60,Low,48,M,None,16,Weather
+2025-02-02 18:24,25.131785,-92.224034,City_25,State_4,Clear,Dry,Daylight,Minor,2,Pedestrian,Side-impact,40,Low,46,M,Signal Jump,5,Weather
+2025-03-05 15:40,45.3022,-80.658607,City_44,State_10,Snow,Wet,Night (Lit),Fatal,4,Truck-Car,Side-impact,40,High,18,F,None,11,Mechanical Failure
+2025-02-06 06:09,39.797545,-114.646259,City_20,State_15,Rain,Wet,Night (Lit),Serious,1,Bike,Other,60,Moderate,31,F,Distracted Driving,6,Human Error
+2025-01-14 20:23,48.43592,-96.700935,City_38,State_19,Cloudy,Dry,Night (No Light),Minor,4,Pedestrian-Car,Side-impact,70,High,72,F,Signal Jump,18,Mechanical Failure
+2025-02-16 00:18,39.464274,-110.763754,City_29,State_6,Fog,Icy,Daylight,Serious,3,Bike-Truck,Head-on,30,Low,22,M,None,13,Road Defect
+2025-01-05 05:34,38.167469,-83.435124,City_45,State_15,Fog,Icy,Dusk,Minor,4,Bus,Head-on,40,Low,57,F,Distracted Driving,14,Human Error
+2025-01-06 02:40,25.18954,-122.513142,City_4,State_15,Fog,Icy,Night (No Light),Minor,4,Bike-Truck,Side-impact,70,Moderate,67,M,Drunk Driving,10,Road Defect
+2025-02-09 04:06,31.014264,-115.568229,City_14,State_3,Cloudy,Icy,Dusk,Serious,1,Truck-Car,Rear-end,50,High,50,M,Signal Jump,2,Human Error
+2025-03-08 05:34,30.569774,-81.496986,City_2,State_3,Cloudy,Wet,Night (No Light),Fatal,1,Bus-Truck,Head-on,70,Moderate,54,F,Speeding,15,Weather
+2025-02-14 11:03,37.373907,-83.545927,City_6,State_17,Rain,Icy,Daylight,Minor,4,Bike,Side-impact,70,High,26,F,Drunk Driving,3,Weather
+2025-01-21 07:04,42.120421,-121.983788,City_8,State_3,Cloudy,Wet,Daylight,Serious,2,Truck,Side-impact,60,High,69,F,Drunk Driving,20,Weather
+2025-01-23 18:51,40.515549,-100.715875,City_2,State_2,Snow,Wet,Dusk,Fatal,4,Bus,Head-on,30,High,20,M,Drunk Driving,12,Weather
+2025-02-05 16:09,39.9922,-117.467007,City_49,State_13,Snow,Dry,Daylight,Serious,1,Bike,Off-road,50,Low,56,M,Drunk Driving,12,Weather
+2025-01-17 09:29,27.643252,-105.41275,City_28,State_12,Clear,Icy,Night (Lit),Fatal,2,Bus-Truck,Off-road,30,High,33,M,Signal Jump,7,Road Defect
+2025-02-14 14:51,28.580294,-110.635818,City_2,State_7,Clear,Dry,Night (Lit),Serious,1,Pedestrian-Car,Off-road,50,Moderate,22,M,Signal Jump,18,Mechanical Failure
+2025-01-14 03:24,43.986438,-94.248031,City_36,State_2,Snow,Wet,Night (No Light),Minor,1,Truck,Head-on,40,High,67,F,None,4,Weather
+2025-01-24 20:03,34.625929,-119.65922,City_28,State_11,Rain,Wet,Night (Lit),Fatal,3,Bike-Pedestrian,Off-road,60,Low,31,F,None,14,Human Error
+2025-01-04 07:12,44.386673,-86.782476,City_49,State_15,Clear,Dry,Dusk,Serious,4,Truck,Side-impact,40,High,74,M,None,13,Road Defect
+2025-01-24 12:51,39.88097,-79.216996,City_49,State_7,Fog,Icy,Night (No Light),Fatal,3,Car-Bus,Rear-end,50,High,33,F,Drunk Driving,15,Road Defect
+2025-01-29 10:58,47.146912,-91.23685,City_43,State_19,Rain,Icy,Daylight,Minor,1,Bike,Other,30,Moderate,30,F,Speeding,17,Weather
+2025-02-23 18:49,37.255567,-77.911314,City_33,State_2,Cloudy,Dry,Night (No Light),Fatal,3,Pedestrian-Car,Off-road,40,High,37,M,Speeding,8,Road Defect
+2025-01-24 22:48,32.780246,-79.708624,City_40,State_15,Rain,Dry,Night (No Light),Minor,1,Bike,Side-impact,40,Moderate,48,F,Drunk Driving,3,Road Defect
+2025-01-14 10:55,30.592416,-97.356017,City_42,State_14,Clear,Icy,Dawn,Minor,3,Pedestrian-Bike,Other,50,High,59,F,None,4,Road Defect
+2025-01-26 04:26,26.050658,-114.329567,City_43,State_2,Snow,Icy,Dusk,Fatal,1,Bus-Pedestrian,Rear-end,70,Moderate,48,F,Speeding,4,Human Error
+2025-01-09 16:01,48.736322,-96.724173,City_12,State_20,Rain,Wet,Dusk,Fatal,1,Car-Pedestrian,Head-on,30,High,57,M,Signal Jump,10,Human Error
+2025-02-11 01:14,44.774756,-108.68797,City_28,State_10,Rain,Dry,Daylight,Fatal,3,Bike,Other,50,High,45,F,Speeding,14,Road Defect
+2025-01-17 16:34,33.572633,-103.392562,City_43,State_15,Snow,Dry,Dawn,Minor,4,Pedestrian,Side-impact,40,Moderate,49,F,Drunk Driving,16,Mechanical Failure
+2025-01-16 03:45,39.953033,-117.528453,City_40,State_16,Cloudy,Wet,Night (No Light),Minor,4,Pedestrian-Bus,Rear-end,50,Low,42,F,None,19,Weather
+2025-01-20 05:29,34.223679,-98.655378,City_36,State_20,Snow,Wet,Dawn,Serious,2,Pedestrian-Truck,Rear-end,30,Moderate,68,M,Drunk Driving,4,Mechanical Failure
+2025-01-31 10:32,34.844047,-111.965927,City_40,State_17,Fog,Icy,Dusk,Fatal,2,Bus,Rear-end,60,Low,68,M,Distracted Driving,18,Mechanical Failure
+2025-02-12 22:51,26.439296,-80.027353,City_28,State_13,Cloudy,Wet,Dusk,Fatal,3,Pedestrian-Bus,Head-on,40,High,71,M,None,11,Road Defect
+2025-02-05 14:54,37.065706,-100.154149,City_42,State_20,Snow,Dry,Night (Lit),Serious,3,Pedestrian,Other,30,Low,33,M,Speeding,11,Mechanical Failure
+2025-01-05 08:02,40.119962,-94.881872,City_37,State_6,Rain,Wet,Dusk,Minor,4,Car,Rear-end,30,High,20,F,Distracted Driving,6,Human Error
+2025-01-14 23:43,41.982147,-92.160403,City_38,State_5,Fog,Wet,Daylight,Serious,2,Truck,Off-road,40,High,38,F,Signal Jump,14,Human Error
+2025-03-09 09:37,42.421868,-80.813339,City_12,State_15,Cloudy,Wet,Dawn,Fatal,3,Bike-Pedestrian,Head-on,40,High,45,F,Signal Jump,19,Mechanical Failure
+2025-01-05 00:12,25.844296,-104.613282,City_34,State_1,Fog,Wet,Dawn,Minor,1,Truck,Head-on,40,Low,73,M,None,3,Human Error
+2025-02-10 11:49,46.341355,-66.735404,City_26,State_18,Cloudy,Dry,Night (No Light),Fatal,4,Bus-Bike,Rear-end,30,Low,20,F,Drunk Driving,20,Mechanical Failure
+2025-02-27 22:06,30.289999,-117.992113,City_16,State_9,Rain,Dry,Night (No Light),Minor,4,Bike,Side-impact,50,Low,20,F,Drunk Driving,15,Road Defect
+2025-01-25 14:06,48.373396,-106.394079,City_42,State_20,Clear,Icy,Dawn,Fatal,1,Bike,Head-on,70,Moderate,41,M,Distracted Driving,18,Mechanical Failure
+2025-02-12 10:53,35.1444,-84.648678,City_15,State_1,Clear,Icy,Dawn,Minor,2,Pedestrian-Car,Off-road,60,Low,26,F,Drunk Driving,8,Human Error
+2025-02-25 19:46,25.01159,-98.791988,City_41,State_5,Fog,Wet,Night (No Light),Fatal,4,Bus-Car,Side-impact,60,High,69,F,Drunk Driving,2,Mechanical Failure
+2025-02-11 06:35,33.490036,-103.536756,City_12,State_8,Rain,Icy,Dawn,Fatal,4,Car-Pedestrian,Other,30,Low,34,M,None,5,Road Defect
+2025-01-04 17:23,32.460162,-69.008999,City_17,State_9,Clear,Dry,Dawn,Fatal,2,Bus,Rear-end,60,Low,60,M,Signal Jump,12,Road Defect
+2025-01-09 13:56,45.279147,-77.226629,City_11,State_11,Clear,Icy,Daylight,Fatal,4,Bus,Off-road,70,Low,70,M,None,19,Road Defect
+2025-01-09 03:15,48.453101,-67.627034,City_22,State_6,Snow,Wet,Night (Lit),Serious,3,Bus,Side-impact,30,Moderate,47,F,Distracted Driving,13,Mechanical Failure
+2025-02-14 19:33,44.512917,-98.412611,City_38,State_10,Cloudy,Icy,Dusk,Fatal,1,Bus,Other,50,Moderate,36,M,Drunk Driving,8,Human Error
+2025-02-02 03:51,33.903183,-74.005322,City_38,State_3,Snow,Wet,Night (Lit),Minor,4,Bus,Other,50,High,37,M,Signal Jump,11,Road Defect
+2025-02-24 13:15,48.046899,-97.083366,City_23,State_14,Rain,Dry,Dawn,Fatal,1,Bike,Head-on,60,High,19,F,Distracted Driving,20,Human Error
+2025-02-04 05:44,27.966307,-74.556418,City_41,State_11,Clear,Wet,Night (Lit),Fatal,3,Car,Head-on,70,High,48,M,Signal Jump,8,Mechanical Failure
+2025-01-21 04:25,37.335686,-105.485497,City_11,State_9,Clear,Wet,Dawn,Serious,3,Car,Other,60,Moderate,43,M,None,11,Road Defect
+2025-02-12 00:05,37.12665,-117.031765,City_36,State_7,Rain,Dry,Night (No Light),Fatal,1,Bus-Car,Side-impact,70,Low,50,F,None,18,Human Error
+2025-01-14 13:51,39.014269,-123.534491,City_50,State_19,Clear,Icy,Dawn,Fatal,1,Bus,Rear-end,60,High,57,F,Speeding,19,Weather
+2025-01-09 20:29,25.667835,-114.466505,City_47,State_7,Rain,Dry,Dawn,Fatal,3,Car,Head-on,40,Low,72,M,Signal Jump,10,Human Error
+2025-01-17 13:33,45.668693,-82.426104,City_26,State_5,Fog,Icy,Night (No Light),Minor,1,Bike-Pedestrian,Side-impact,30,Low,35,F,Distracted Driving,15,Road Defect
+2025-01-31 11:47,29.658728,-118.430486,City_22,State_3,Snow,Icy,Night (No Light),Serious,1,Bus-Truck,Off-road,60,Moderate,39,M,Distracted Driving,19,Road Defect
+2025-02-08 07:31,45.193248,-120.715308,City_1,State_9,Clear,Dry,Dusk,Minor,2,Bus-Bike,Head-on,70,Low,63,F,Distracted Driving,4,Mechanical Failure
+2025-01-02 23:28,33.792795,-98.86479,City_35,State_13,Fog,Wet,Night (No Light),Minor,4,Car,Head-on,30,Moderate,20,M,None,6,Mechanical Failure
+2025-01-29 05:52,47.51995,-72.017427,City_11,State_14,Cloudy,Wet,Dusk,Minor,3,Pedestrian-Bike,Other,40,Moderate,65,F,Distracted Driving,12,Mechanical Failure
+2025-01-10 11:15,45.57193,-80.248557,City_12,State_16,Rain,Icy,Dawn,Fatal,1,Bus-Bike,Head-on,60,Low,67,F,Drunk Driving,12,Road Defect
+2025-02-03 17:03,40.808701,-105.343279,City_32,State_8,Rain,Icy,Dusk,Fatal,3,Pedestrian,Head-on,60,Low,62,F,None,10,Mechanical Failure
+2025-03-09 11:56,47.543403,-70.615309,City_22,State_11,Cloudy,Wet,Night (Lit),Serious,1,Car-Bike,Other,40,Low,46,F,Signal Jump,15,Weather
+2025-01-17 16:44,34.739299,-90.875582,City_33,State_5,Cloudy,Wet,Night (No Light),Minor,2,Pedestrian,Other,30,High,33,M,Signal Jump,6,Human Error
+2025-01-26 18:33,40.332986,-76.720398,City_1,State_10,Clear,Icy,Dusk,Minor,1,Truck-Bike,Head-on,50,Low,75,M,Signal Jump,6,Weather
