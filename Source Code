@@ -1,0 +1,37 @@
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import LabelEncoder
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import classification_report
+
+# Load the dataset
+df = pd.read_csv("ai_traffic_accident_prediction_100_lines.csv")
+
+# Select features and target
+features = [
+    "Weather", "Road_Surface", "Light", "Vehicle_Count", "Speed_Limit",
+    "Traffic_Density", "Driver_Age", "Driver_Gender", "Violation"
+]
+target = "Severity"
+
+# Encode categorical variables
+label_encoders = {}
+for col in features + [target]:
+    if df[col].dtype == 'object':
+        le = LabelEncoder()
+        df[col] = le.fit_transform(df[col])
+        label_encoders[col] = le
+
+# Split the dataset
+X = df[features]
+y = df[target]
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Train a classifier
+model = RandomForestClassifier(n_estimators=100, random_state=42)
+model.fit(X_train, y_train)
+
+# Make predictions and evaluate
+y_pred = model.predict(X_test)
+report = classification_report(y_test, y_pred)
+print(report)
